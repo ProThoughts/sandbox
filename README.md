@@ -60,11 +60,15 @@ Fast and Secure
 - [Safe from][8] XSS, CSRF and SQL injection attacks.
 - Beat spam with captchas, moderation and/or flagging.
 
-Installation
+Requirements
 ------------
 - PHP 5.2 or later, with the MySQLi extension. Works best with PHP 7.
 - MySQL 4.1 or later, MySQL 5.x for best performance.
+
+Installation
+------------
 - Q2A takes 5 minutes (or less!) to [install][5].
+- Supports [translation][12] into any language.
 
 Add-Ons 
 -------
@@ -102,3 +106,4 @@ Thanks and enjoy!
 [9]: https://docs.question2answer.org/addons/
 [10]: https://docs.question2answer.org/plugins/
 [11]: https://docs.question2answer.org/themes/
+[12]: https://docs.question2answer.org/translate/
