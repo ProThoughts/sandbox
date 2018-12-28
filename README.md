@@ -55,10 +55,14 @@ Q2A also features an extensive plugin system:
 - Extend many core Q2A functions using *function overrides*.
 
 Fast and Secure 
-------------
+---------------
 - PHP/MySQL [scalable][7] to millions of users and posts.
 - [Safe from][8] XSS, CSRF and SQL injection attacks.
 - Beat spam with captchas, moderation and/or flagging.
+
+Add-Ons 
+-------
+- Q2A Themes, Plugins and Language files are [available here][9].
 
 Installation
 ------------
@@ -90,3 +94,4 @@ Thanks and enjoy!
 [6]: https://www.question2answer.org/qa
 [7]: https://docs.question2answer.org/install/optimize/
 [8]: https://docs.question2answer.org/install/security/
+[9]: https://docs.question2answer.org/addons/
