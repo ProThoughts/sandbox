@@ -54,6 +54,12 @@ Q2A also features an extensive plugin system:
 - Add extra spam protection with *captcha modules*.
 - Extend many core Q2A functions using *function overrides*.
 
+Fast and Secure 
+------------
+- PHP/MySQL [scalable][7] to millions of users and posts.
+- [Safe from][8] XSS, CSRF and SQL injection attacks.
+- Beat spam with captchas, moderation and/or flagging.
+
 Installation
 ------------
 - PHP 5.2 or later, with the MySQLi extension. Works best with PHP 7.
@@ -82,3 +88,5 @@ Thanks and enjoy!
 [4]: http://www.gidgreen.com/
 [5]: https://docs.question2answer.org/install/
 [6]: https://www.question2answer.org/qa
+[7]: https://docs.question2answer.org/install/optimize/
+[8]: https://docs.question2answer.org/install/security/
