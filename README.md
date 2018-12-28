@@ -60,15 +60,15 @@ Fast and Secure
 - [Safe from][8] XSS, CSRF and SQL injection attacks.
 - Beat spam with captchas, moderation and/or flagging.
 
-Add-Ons 
--------
-- Q2A Themes, Plugins and Language files are [available here][9].
-
 Installation
 ------------
 - PHP 5.2 or later, with the MySQLi extension. Works best with PHP 7.
 - MySQL 4.1 or later, MySQL 5.x for best performance.
 - Q2A takes 5 minutes (or less!) to [install][5].
+
+Add-Ons 
+-------
+- Q2A Themes, Plugins and Language files are [available here][9].
 
 Community
 ---------
