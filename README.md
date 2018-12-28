@@ -78,7 +78,7 @@ Documentation
 -------------
 - Q2A [Plugins][10] allow the platform to be modified or extended without changing the Q2A core.
 - Q2A supports multiple [Themes][11], it makes easy for you to create your own. The HTML in its pages contains no visual formatting, so you can customize the look and feel using CSS only. 
-- Q2A fully supports non-English languages and is easy to [translate][13].
+- Q2A fully supports non-English languages and is easy to [translate][12].
 
 Community
 ---------
@@ -108,4 +108,4 @@ Thanks and enjoy!
 [10]: https://docs.question2answer.org/plugins/
 [11]: https://docs.question2answer.org/themes/
 [12]: https://docs.question2answer.org/translate/
-[13]: https://docs.question2answer.org/translate/
+
