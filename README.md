@@ -11,7 +11,7 @@
 <a href="https://www.question2answer.org/license.php"><img src="https://img.shields.io/badge/License-GPL%20(%3E=v2)-green.svg?style=flat" alt="License"></a>
 </p>
 
-[Question2Answer][Q2A] (Q2A) is a popular free open source Q&A platform for PHP/MySQL, used by over [22,000 sites in 40 languages][3].
+[Question2Answer][Q2A] (Q2A) is a popular free open source Q&A platform for PHP/MySQL, used by over [22,771 sites in 40 languages][3].
 
 Key Features
 ------------
