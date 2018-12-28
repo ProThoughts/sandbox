@@ -56,7 +56,7 @@ Q2A also features an extensive plugin system:
 
 Installation
 ------------
-- PHP 5.2 or later, with the MySQLi extension. Works best with PHP 7
+- PHP 5.2 or later, with the MySQLi extension. Works best with PHP 7.
 - MySQL 4.1 or later, MySQL 5.x for best performance.
 - Q2A takes 5 minutes (or less!) to [install][5].
 
