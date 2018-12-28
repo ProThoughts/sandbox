@@ -62,7 +62,7 @@ Installation
 
 Community
 ---------
-- Participate in [discussions at forums](https://www.question2answer.org/qa).
+- Join the [Question2Answer Community][6] and discuss with other members.
 
 Development
 -----------
@@ -81,3 +81,4 @@ Thanks and enjoy!
 [3]: https://www.question2answer.org/sites.php
 [4]: http://www.gidgreen.com/
 [5]: https://docs.question2answer.org/install/
+[6]: https://www.question2answer.org/qa
