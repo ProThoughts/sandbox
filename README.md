@@ -70,6 +70,11 @@ Add-Ons
 -------
 - Q2A Themes, Plugins and Language files are [available here][9].
 
+Documentation 
+-------------
+- Q2A [Plugins][10] allow the platform to be modified or extended without changing the Q2A core.
+- Q2A supports multiple [Themes][11], it makes easy for you to create your own. The HTML in its pages contains no visual formatting, so you can customize the look and feel using CSS only. 
+
 Community
 ---------
 - Join the [Question2Answer Community][6] and discuss with other members.
@@ -95,3 +100,5 @@ Thanks and enjoy!
 [7]: https://docs.question2answer.org/install/optimize/
 [8]: https://docs.question2answer.org/install/security/
 [9]: https://docs.question2answer.org/addons/
+[10]: https://docs.question2answer.org/plugins/
+[11]: https://docs.question2answer.org/themes/
